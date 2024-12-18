@@ -19,7 +19,8 @@ to remove branch remotely  :
    
      git tag -d <tag-name> 
     
-    to remove tag remotely  :
+to remove tag remotely  :
+
     git push origin : <tag-name>
 
 ![image](https://github.blog/wp-content/uploads/2024/05/GitHub-for-beginners.png?fit=1600%2C840)
